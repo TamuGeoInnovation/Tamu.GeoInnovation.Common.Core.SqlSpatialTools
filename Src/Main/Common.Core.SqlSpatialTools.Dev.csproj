@@ -104,10 +104,6 @@
     <Reference Include="System.Web.Services" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Kml">
-      <HintPath>..\..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\Kml\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Kml.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="KML\SqlSpatialToolKMLDocument.cs" />
@@ -139,6 +135,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.Kml\Src\Main\Common.Core.Kml.Dev.csproj">
+      <Project>{6EF62A72-2725-49D9-94E8-1339D01403FC}</Project>
+      <Name>Common.Core.Kml.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  
