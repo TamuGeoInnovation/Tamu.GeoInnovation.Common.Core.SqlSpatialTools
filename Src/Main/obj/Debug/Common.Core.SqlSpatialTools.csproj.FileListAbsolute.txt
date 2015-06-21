@@ -1,6 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll.config
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.SqlSpatialTools.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\src\obj\Debug\Common.Core.SqlSpatialTools.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\src\obj\Debug\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\src\obj\Debug\USC.GISResearchLab.Common.Core.SqlSpatialTools.pdb

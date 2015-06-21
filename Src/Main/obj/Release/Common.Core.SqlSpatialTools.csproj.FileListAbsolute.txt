@@ -1,9 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll.config
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\src\obj\Release\Common.Core.SqlSpatialTools.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.SqlSpatialTools\src\obj\Release\USC.GISResearchLab.Common.Core.SqlSpatialTools.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\SqlExtensions\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.SqlSpatialTools.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\SqlExtensions\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.SqlSpatialTools.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\SqlSpatialTools\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.SqlSpatialTools.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\SqlSpatialTools\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.SqlSpatialTools.dll.config
-C:\DevSource\Tamu\GeoInnovation\Common\Core\SqlSpatialTools\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.SqlSpatialTools.dll
