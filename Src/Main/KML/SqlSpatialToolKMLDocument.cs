@@ -5,18 +5,18 @@ namespace USC.GISResearchLab.Common.Core.KML
 {
 
 
-    public class SqlSpatialToolKMLDocument: KMLDocument
+    public class SqlSpatialToolKMLDocument : KMLDocument
     {
-        
 
-        public SqlSpatialToolKMLDocument(): base()
+
+        public SqlSpatialToolKMLDocument() : base()
 
         {
         }
 
-        public SqlSpatialToolKMLDocument(string name): base(name)
+        public SqlSpatialToolKMLDocument(string name) : base(name)
         {
-           
+
 
         }
 
